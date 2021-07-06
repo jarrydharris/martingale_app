@@ -4,7 +4,7 @@ A simple simulation of the martingale betting strategy for roulette.
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](http://jarryd.pythonanywhere.com/)
 
 I was discussing betting strategies with a friend at the same time I needed an excuse to learn Dash/Plotly. The result was this little web app.
 
